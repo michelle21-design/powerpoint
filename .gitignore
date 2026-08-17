@@ -2,3 +2,8 @@ node_modules/
 package-lock.json
 package.json
 *.pdf
+proof_slide.*
+adstra_bg.png
+adstra_unpacked/
+preview-*.png
+render_preview.py
